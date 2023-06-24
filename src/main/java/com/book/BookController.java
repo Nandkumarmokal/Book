@@ -31,7 +31,7 @@ public class BookController {
 		ch=scanner.next().charAt(0);
 		}while(ch=='Y' || ch=='y');
 		System.out.println("Terminated");
-		
+		System.out.println("Hello");		
 
 	}
 
